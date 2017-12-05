@@ -17,7 +17,7 @@
 			     
 ## Demo
 
- Responsive Portfolio site can be seen[here] (https://github.com/kamireddym28/My_Portfolio.git)
+ Responsive Portfolio site can be seen[here] (https://github.com/kamireddym28/My_Portfolio/.)
 
 ## Couresy
 
