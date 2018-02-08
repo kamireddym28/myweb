@@ -19,7 +19,7 @@
 
  Responsive Portfolio site can be seen [here](https://kamireddym28.github.io/My_Portfolio/)
 
-## Couresy
+## Courtesy
 
  Design mockup was provided by Udacity
  Minified bootstrap css was used to ensure responsiveness of the webpage
