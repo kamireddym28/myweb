@@ -17,7 +17,7 @@
 			     
 ## Demo
 
- Responsive Portfolio site can be seen [here](https://kamireddym28.github.io/My_Portfolio/)
+ Responsive Portfolio site can be seen [here](https://kamireddym28.github.io/myweb/)
 
 ## Courtesy
 
